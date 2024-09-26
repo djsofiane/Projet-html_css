@@ -1,0 +1,31 @@
+body {
+
+    display: inline-block;      
+    width: 48%;                 
+    vertical-align: top;        
+    margin-right: 2%;           
+    padding: 10px;
+    background-color: burlywood;
+    
+}
+
+
+    
+    
+    
+    img {
+      
+        width: 100%;              
+        max-width: 100%;            
+        height: auto;              
+        max-height: 400px;          
+        object-fit: cover; 
+                    
+
+
+
+}
+h1 {
+    color: maroon;
+}
+
