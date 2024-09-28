@@ -53,5 +53,24 @@ body {
     transform: scale(1.1); /* Agrandissement lors du survol */
 
 }
-    transform: scale(1.1); /* Agrandissement lors du survol */
+    
 
+    body {
+        font-family: Arial, sans-serif;
+    }
+    
+    .partenaires {
+        display: flex; /* Utilise Flexbox pour l'alignement */
+        align-items: center; /* Aligne verticalement le logo et le texte */
+    }
+    
+    .logo {
+        width: 30px; /* Ajustez la taille du logo */
+        height: 30px; /* Maintient le ratio d'aspect */
+        margin-right: 10px; /* Espace entre le logo et le texte */
+        
+        
+    
+    }
+
+    
