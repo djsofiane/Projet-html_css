@@ -10,6 +10,22 @@ body {
 }
 
 
+.logo h1 {
+    font-family: 'Arial', sans-serif; /* Police */
+    font-size: 50px; /* Taille de la police */
+    color:brown; /* Couleur du texte */
+    text-transform: uppercase; /* Transforme le texte en majuscules */
+    letter-spacing: 5px; /* Espacement entre les lettres */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Ombre du texte */
+    transition: transform 0.3s; /* Transition pour l'effet au survol */
+    margin-bottom: 40px; 
+}
+
+
+
+
+
+
     
     
     
@@ -71,6 +87,19 @@ body {
         
         
     
+
     }
 
+
+    
+    .logo {
+        font-family: 'Brush Script MT', cursive; /* Police manuscrite */
+        font-size: 5rem; /* Taille de police */
+        color: maroon; /* Couleur du texte */
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombre du texte */
+        letter-spacing: 2px; /* Espacement entre les lettres */
+        transition: transform 0.3s; /* Transition pour l'effet au survol */
+    }
+    
+    
     
