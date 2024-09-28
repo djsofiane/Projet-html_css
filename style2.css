@@ -29,3 +29,29 @@ h1 {
     color: maroon;
 }
 
+body {
+    font-family: Arial, sans-serif;
+}
+
+.suivez-nous {
+    display: flex;
+    align-items: center;
+}
+
+.suivez-nous span {
+    margin-right: 10px; /* Espacement entre le texte et les icônes */
+}
+
+.social-icon img {
+    width: 30px; /* Taille des icônes */
+    height: 30px; /* Taille des icônes */
+    margin-left: 5px; /* Espacement entre les icônes */
+    transition: transform 0.3s; /* Animation lors du survol */
+}
+
+.social-icon img:hover {
+    transform: scale(1.1); /* Agrandissement lors du survol */
+
+}
+    transform: scale(1.1); /* Agrandissement lors du survol */
+
