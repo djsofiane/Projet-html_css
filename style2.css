@@ -100,6 +100,21 @@ body {
         letter-spacing: 2px; /* Espacement entre les lettres */
         transition: transform 0.3s; /* Transition pour l'effet au survol */
     }
+
+   
     
+    h1 {
+        margin-right: 20px; /* Espace horizontal entre le texte et l'image */
+    }
     
+    .image {
+        margin-left: 20px; /* Espace horizontal entre l'image et le texte */
+    }
     
+    .title {
+        padding-bottom: 30px; /* Ajoute un espace en bas du h1 */
+    }
+    
+    .image {
+        padding-top: 30px; /* Ajoute un espace en haut de l'image (optionnel) */
+    }
